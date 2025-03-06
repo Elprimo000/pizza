@@ -259,3 +259,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'immersive_aircraft:hull_reinf
 [06Mar2025 16:56:51.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SwatCat1987: Killed SwatCat1987]
 [06Mar2025 16:57:28.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SwatCat1987 lost connection: Disconnected
 [06Mar2025 16:57:28.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SwatCat1987 left the game
+[06Mar2025 17:37:51.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Mar2025 17:37:51.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Mar2025 17:37:51.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Mar2025 17:37:51.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Mar2025 17:37:52.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Mar2025 17:37:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Mar2025 17:37:52.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Mar2025 17:37:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Mar2025 17:37:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Mar2025 17:37:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Mar2025 17:37:52.623] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
