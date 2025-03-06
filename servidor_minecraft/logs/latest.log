@@ -257,3 +257,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'immersive_aircraft:hull_reinf
 [06Mar2025 16:56:44.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SwatCat1987: Gamerule spawnRadius is now set to: 0]
 [06Mar2025 16:56:51.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SwatCat1987 was killed
 [06Mar2025 16:56:51.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SwatCat1987: Killed SwatCat1987]
+[06Mar2025 16:57:28.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SwatCat1987 lost connection: Disconnected
+[06Mar2025 16:57:28.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SwatCat1987 left the game
